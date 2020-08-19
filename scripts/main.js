@@ -1,3 +1,3 @@
-import { FamilyList } from "./FamilyList.js"
+import { FamilyList } from "./family/FamilyList.js"
 
 FamilyList()
